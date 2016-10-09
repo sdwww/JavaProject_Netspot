@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GraphLib/GraphLib.iml" filepath="$PROJECT_DIR$/GraphLib/GraphLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Refine/Refine.iml" filepath="$PROJECT_DIR$/Refine/Refine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SigSpot/SigSpot.iml" filepath="$PROJECT_DIR$/SigSpot/SigSpot.iml" />
+    </modules>
+  </component>
+</project>
+
